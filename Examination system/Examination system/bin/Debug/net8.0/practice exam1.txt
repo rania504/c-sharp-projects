@@ -1,0 +1,46 @@
+student answer for Q1 is true
+
+student answer for Q2 is 10
+
+student answer for Q1 is true
+
+student answer for Q1 is true
+
+student answer for Q2 is 2
+
+student answer for Q3 is 1 2
+
+student answer for Q1 is true
+
+student answer for Q1 is true
+
+student answer for Q2 is 10
+
+student answer for Q3 is c# c++
+
+student answer for Q1 is false
+
+student answer for Q2 is 5
+
+student answer for Q3 is c# c++
+
+student answer for Q1 is false
+
+student answer for Q2 is 5
+
+student answer for Q3 is c++ c#
+
+student answer for Q1 is true
+
+student answer for Q1 is false
+
+student answer for Q2 is 10
+
+student answer for Q3 is c++
+
+student answer for Q1 is false
+
+student answer for Q2 is 10
+
+student answer for Q3 is c++ c#
+
